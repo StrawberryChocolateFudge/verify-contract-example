@@ -1,4 +1,4 @@
-# Verifdy contract example 
+# Verify contract example 
 
 This is the example for the dependency https://www.npmjs.com/package/@ricardianfabric/verify-signed-contract
 
